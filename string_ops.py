@@ -10,7 +10,7 @@ def f(s):
 #Simple String Matching
 def solve(a,b):
     l = a.find('*') 
-    return ("*" in a and len(a)-1<=len(b) and a[:l] == b[:l] or a == b )
+    return (len(a)-1<=len(b) and a[:l] == b[:l] or a == b )
 # Is it a palindrome
 def is_palindrome(x):
     x=str(x) 
