@@ -1,3 +1,4 @@
+The Begining of my Python Journey
 Ahmed Saad Hammad
 This project is based on 4 functions in a module called String_ops
 
